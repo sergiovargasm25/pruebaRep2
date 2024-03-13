@@ -18,6 +18,8 @@ import java.text.SimpleDateFormat;
 public class Date {
 
   private int fieldAddByCollaborator;
+
+  private final int day2;
   private final int day;
   private final int month;
   private final int year;
